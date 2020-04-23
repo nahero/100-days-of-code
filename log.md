@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 0: 23. April 2020
+
+**Today's Progress**: Back to the big Angular 9 tutorial on Udemy - observables and custom observables
+
+**Thoughts:** Good to be back on Angular after few months developing Wordpress sites :)
+
+**Link to work:** [Udemy - Angular, the complete guide (2020 edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
