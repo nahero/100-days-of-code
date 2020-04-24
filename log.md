@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 1: 24. April 2020
+
+**Progress**: Angular observables and Subject + setting up a git repo from local project
+
+**Thoughts:** Re-acquanting with Angular quirks and using new features
+
+**Link:** [Angular9-observables](https://github.com/nahero/angular9-Observables)
+
 ### Day 0: 23. April 2020
 
-**Today's Progress**: Back to the big Angular 9 tutorial on Udemy - observables and custom observables
+**Progress**: Back to the big Angular 9 tutorial on Udemy - observables and custom observables
 
 **Thoughts:** Good to be back on Angular after few months developing Wordpress sites :)
 
-**Link to work:** [Udemy - Angular, the complete guide (2020 edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+**Link:** [Udemy - Angular, the complete guide (2020 edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
