@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: 25. April 2020
+
+**Progress**: Forms - template driven and reactive forms
+
+**Thoughts:** Rolling along :)
+
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition)
+
 ### Day 1: 24. April 2020
 
 **Progress**: Angular observables and Subject + setting up a git repo from local project
