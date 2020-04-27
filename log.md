@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: 27. April 2020
+
+**Progress**: Reactive forms and CRUD using reactive forms
+
+**Thoughts:** Will investigate how to use existing Interface to setup reactive form, whose value should obviously be identical to the Interface (at least in this course)
+
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition)
+
 ### Day 2: 25. April 2020
 
 **Progress**: Forms - template driven and reactive forms
