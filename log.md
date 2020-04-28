@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: 28. April 2020
+
+**Progress**: Angular Pipes - built-in and creating custom pipes
+
+**Thoughts:** Already know pipes from angularjs but went in deeper this time, and creating custom pipes with AngularCLI is a breeze
+
+**Link:** [Angular9 - Pipes](https://github.com/nahero/angular9-pipes)
+
 ### Day 3: 27. April 2020
 
 **Progress**: Reactive forms and CRUD using reactive forms
