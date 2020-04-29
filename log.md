@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: 29. April 2020
+
+**Progress**: Angular HTTP requests + Firebase
+
+**Thoughts:** Firebase does all the job on creating database and providing back-end and main API endpoint, but setting up the requests with proper types and using pipe/operators to modify the data received can be a PITA
+
+**Link:** [Angular9 - HTTP](https://github.com/nahero/angular9-http)
+
 ### Day 4: 28. April 2020
 
 **Progress**: Angular Pipes - built-in and creating custom pipes
