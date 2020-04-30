@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: 30. April 2020
+
+**Progress**: Angular HTTP requests + Firebase - adding types and moving requests to a service
+
+**Thoughts:** Just a follow-up on HTTP requests today
+
+**Link:** [Angular9 - HTTP](https://github.com/nahero/angular9-http)
+
 ### Day 5: 29. April 2020
 
 **Progress**: Angular HTTP requests + Firebase
