@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: 1. May 2020
+
+**Progress**: Angular HTTP requests + Firebase - error handling and get post attempt - CORS block
+
+**Thoughts:** hello again CORS old friend...
+
+**Link:** [Angular9 - HTTP](https://github.com/nahero/angular9-http)
+
 ### Day 6: 30. April 2020
 
 **Progress**: Angular HTTP requests + Firebase - adding types and moving requests to a service
