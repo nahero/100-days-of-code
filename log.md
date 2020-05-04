@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 9: 4. May 2020
+**Progress**: Angular HTTP saving and fetching data from Firebase - back to main app
+**Thoughts:** getting a good hold of GET/PUT/POST with Firebase
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition)
+
 ### Day 8: 2. May 2020
 **Progress**: Angular HTTP headers and HTTP interceptors
 **Thoughts:** not much practical use from this part of tutorial, have to go back to main app and apply this properly
