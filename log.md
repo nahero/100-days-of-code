@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 10: 5. May 2020
+**Progress**: Angular route resolver (if no data loaded from database), Firebase user authentication"
+**Thoughts:** Finally got to the user authentication
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition)
+
 ### Day 9: 4. May 2020
 **Progress**: Angular HTTP saving and fetching data from Firebase - back to main app
 **Thoughts:** getting a good hold of GET/PUT/POST with Firebase
