@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 11: 6. May 2020
+**Progress**: Auth service error handling + loading spinner
+**Thoughts:** Max Schwarzmuller is really getting on my nerves already, so therefore, I turned off the sound and turned on the subtitles. Nothing personal Max :)
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition/commit/8839f5664d7a2528ebc7bfff3277ccfa3888120c)
+
 ### Day 10: 5. May 2020
 **Progress**: Angular route resolver (if no data loaded from database), Firebase user authentication"
 **Thoughts:** Finally got to the user authentication
