@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 12: 7. May 2020
+**Progress**: User login, storing user data, adding auth token to HTTP request
+**Thoughts:** Starting to feel that Angular steep learning curve, everything seems clear but there are so many details and variants that you really need to pay attention in class.
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition/commit/f4ac74b8b9a89a672b878c7e186187748c83606e)
+
 ### Day 11: 6. May 2020
 **Progress**: Auth service error handling + loading spinner
 **Thoughts:** Max Schwarzmuller is really getting on my nerves already, so therefore, I turned off the sound and turned on the subtitles. Nothing personal Max :)
