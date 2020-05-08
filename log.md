@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 13: 8. May 2020
+**Progress**: Auth interceptor
+**Thoughts:** Took a small piece today and went throught it without tutorial to get a better grasp on details and errors.
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition/commit/85bb596443640b925d85b6a4993ad6494ac9fefd)
+
 ### Day 12: 7. May 2020
 **Progress**: User login, storing user data, adding auth token to HTTP request
 **Thoughts:** Starting to feel that Angular steep learning curve, everything seems clear but there are so many details and variants that you really need to pay attention in class.
