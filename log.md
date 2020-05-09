@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 14: 9. May 2020
+**Progress**: Storing user data to localStorage, auto-login
+**Thoughts:** None whatsoever.
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition/commit/57094671bb6ecf43d5b3f0c40ff33549922e1f38)
+
 ### Day 13: 8. May 2020
 **Progress**: Auth interceptor
 **Thoughts:** Took a small piece today and went throught it without tutorial to get a better grasp on details and errors.
