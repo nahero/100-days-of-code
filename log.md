@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 15: 11. May 2020
+**Progress**: Auto-logout, auth-guard, authentication wrap-up
+**Thoughts:** Finally a full circle with authentication
+**Link:** [Angular9 - 2020 edition](https://github.com/nahero/Angular9-2020-edition/commit/dcf47a873f0f5fa0197c5b5442f20d0938c196ae)
+
 ### Day 14: 9. May 2020
 **Progress**: Storing user data to localStorage, auto-login
 **Thoughts:** None whatsoever.
