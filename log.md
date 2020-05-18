@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 17: 18. May 2020
+**Progress**: Pacman in vanilla JS, based on Ania Kubow tutorial
+**Thoughts:** Been a long time since I worked in plain javascript! Direct DOM manipulation, wow... :)
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js/commit/b42a55d894f648dcce6a851f44f6ace476d25c6f)
+
+### Day 16: 15. May 2020
+**Progress**: Arduino code for DC load
+**Thoughts:** Yup, lost my momentum because of the scope of Angular tutorial. I need to start building, not just learning.
+
 ### Day 15: 11. May 2020
 **Progress**: Auto-logout, auth-guard, authentication wrap-up
 **Thoughts:** Finally a full circle with authentication
