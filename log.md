@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: 20. May 2020
+**Progress**: Pacman JS bug fixes, more code optimization, started on 3d perspective
+**Thoughts:** Wasted a lot of time on continuous movement on keyboard, didn't work
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js/commit/b42a55d894f648dcce6a851f44f6ace476d25c6f)
+
+### Day 18: 19. May 2020
+**Progress**: More Pacman JS, different movement calculations, breaking up into functions
+**Thoughts:** Overthinking...
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js/commit/b42a55d894f648dcce6a851f44f6ace476d25c6f)
+
 ### Day 17: 18. May 2020
 **Progress**: Pacman in vanilla JS, based on Ania Kubow tutorial
 **Thoughts:** Been a long time since I worked in plain javascript! Direct DOM manipulation, wow... :)
