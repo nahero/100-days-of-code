@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: 21. May 2020
+**Progress**: Pacman continuous automatic movement rework, planned the end goal
+**Thoughts:** Digging deeper, I want to build something polished, but not an exact clone of Pacman.
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js/commit/677c6efb49d97de32915bcb9adf90b074da1cad0)
+
 ### Day 19: 20. May 2020
 **Progress**: Pacman JS bug fixes, more code optimization, started on 3d perspective
 **Thoughts:** Wasted a lot of time on continuous movement on keyboard, didn't work
