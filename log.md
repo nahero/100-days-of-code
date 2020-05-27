@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: 27. May 2020
+**Progress**: Preparing ghosts advanced movement, more reworked functions for reusability
+**Thoughts:** Should have done different setup from the start, but that's always the issue :)
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js/commit/643057a6100f4d31800e492662eabae3cf428731)
+
 ### Day 21: 23. May 2020
 **Progress**: Ghosts fluid movement rework, reworked functions for reusability, introduced ghosts avatars just like pacman
 **Thoughts:** A lot of thought and bughunting goes into reusability, but it's worth it
