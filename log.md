@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 23: 28. May 2020
+**Progress**: Ghosts advanced movement: fluid movement, intersections, avoiding moving backwards, getting out of lair
+**Thoughts:** Solving the problem on paper and/or comments first - then coding - is the way to go.
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 22: 27. May 2020
 **Progress**: Preparing ghosts advanced movement, more reworked functions for reusability
 **Thoughts:** Should have done different setup from the start, but that's always the issue :)
