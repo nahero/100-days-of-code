@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 24: 29. May 2020
+**Progress**: Ghosts movement rate slow/speed-up using setTimeout, pacdot animation
+**Thoughts:** Have to find out why pacdot animation slows the game so much
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 23: 28. May 2020
 **Progress**: Ghosts advanced movement: fluid movement, intersections, avoiding moving backwards, getting out of lair
 **Thoughts:** Solving the problem on paper and/or comments first - then coding - is the way to go.
