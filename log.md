@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 25 and 26: 30. May and 1. June 2020
+**Progress**: ghost return to lair on eaten, getOutOfLair, moveTowardTarget, isCoordsCloser, ghost eaten animation.
+**Thoughts:** Everything is coming together to make a much more complex and enjoyable game. Morning fitness and mynoise.net for the win!
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 24: 29. May 2020
 **Progress**: Ghosts movement rate slow/speed-up using setTimeout, pacdot animation
 **Thoughts:** Have to find out why pacdot animation slows the game so much
