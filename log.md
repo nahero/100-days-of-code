@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 27: 2. June 2020
+**Progress**: Properly init and re-init ghost on start and eaten: move out of lair then triggering normal movement.
+**Thoughts:** A lot of thinking today, and trying to incorporate Promises but ended not using them
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 25 and 26: 30. May and 1. June 2020
 **Progress**: ghost return to lair on eaten, getOutOfLair, moveTowardTarget, isCoordsCloser, ghost eaten animation.
 **Thoughts:** Everything is coming together to make a much more complex and enjoyable game. Morning fitness and mynoise.net for the win!
