@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 28: 3. June 2020
+**Progress**: Implemented web animation API (WAAPI) instead of css animations and transitions.
+**Thoughts:** WAAPI gives much better controls over animations and is smoother overall
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 27: 2. June 2020
 **Progress**: Properly init and re-init ghost on start and eaten: move out of lair then triggering normal movement.
 **Thoughts:** A lot of thinking today, and trying to incorporate Promises but ended not using them
