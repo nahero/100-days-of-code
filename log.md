@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 29: 4. June 2020
+**Progress**: WAAPI ghost flying back to lair with speed relative to distance, respawn blinking animation
+**Thoughts:** Transform properties cannot be separated giving me headaches. Considered GSAP but that would be diving down the rabbit hole. I will work with limitations as there are many things to accomplish to call this a finished app.
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 28: 3. June 2020
 **Progress**: Implemented web animation API (WAAPI) instead of css animations and transitions.
 **Thoughts:** WAAPI gives much better controls over animations and is smoother overall
