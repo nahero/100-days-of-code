@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 30: 5. June 2020
+**Progress**: sequenced animations and functions with Promises, added avatar to ghost class
+**Thoughts:** Promises and nested Promises open up easier sequencing and other possibilities, I was actually calling a .then in a wrong way all along!
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 29: 4. June 2020
 **Progress**: WAAPI ghost flying back to lair with speed relative to distance, respawn blinking animation
 **Thoughts:** Transform properties cannot be separated giving me headaches. Considered GSAP but that would be diving down the rabbit hole. I will work with limitations as there are many things to accomplish to call this a finished app.
