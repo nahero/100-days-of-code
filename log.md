@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 31: 6. June 2020
+**Progress**: fixing bugs: skipping between getOutOfLair and initializing normal movement, wrong movement after second kill - still in progress
+**Thoughts:** Debugging is always time-consuming, consol.log everything...
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 30: 5. June 2020
 **Progress**: sequenced animations and functions with Promises, added avatar to ghost class
 **Thoughts:** Promises and nested Promises open up easier sequencing and other possibilities, I was actually calling a .then in a wrong way all along!
