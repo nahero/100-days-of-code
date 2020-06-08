@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 32: 8. June 2020
+**Progress**: fixed bug: wrong movement after second kill, getLairSpot in progress
+**Thoughts:** Learned to respect timers when put in a setTimeout loop - startGhostMovement was just continuing with next setTimeout call normally even after clearTimeout because it was in the middle of a loop
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 31: 6. June 2020
 **Progress**: fixing bugs: skipping between getOutOfLair and initializing normal movement, wrong movement after second kill - still in progress
 **Thoughts:** Debugging is always time-consuming, consol.log everything...
