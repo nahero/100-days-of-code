@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 33: 9. June 2020
+**Progress**: getLairSpot finished, started fixing stuck situations
+**Thoughts:** Base of this game should have been done differently, I'm having timing and grid-related issues.
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 32: 8. June 2020
 **Progress**: fixed bug: wrong movement after second kill, getLairSpot in progress
 **Thoughts:** Learned to respect timers when put in a setTimeout loop - startGhostMovement was just continuing with next setTimeout call normally even after clearTimeout because it was in the middle of a loop
