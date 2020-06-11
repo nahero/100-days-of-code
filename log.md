@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 34: 11. June 2020
+**Progress**: fixed stuck ghost situations
+**Thoughts:** a lot of try/error and iterations for this one
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 33: 9. June 2020
 **Progress**: getLairSpot finished, started fixing stuck situations
 **Thoughts:** Base of this game should have been done differently, I'm having timing and grid-related issues.
