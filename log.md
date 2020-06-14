@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 36: 14. June 2020
+**Progress**: Fixed scared ghosts overlap, unscared ghosts issue on second scare, css to waapi animation in progress
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 35: 13. June 2020
 **Progress**: Tunnel movements for Pacman and ghosts + tunnel animation
 **Thoughts:** updated the grid for this one, but still using fixed tunnel indexes for calculations. Can be updated easily in the future.
