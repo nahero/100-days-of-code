@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 37: 15. June 2020
+**Progress**: Fixed waapi scaredEnd animation timing, overlap and avoid applying to non-scared ghosts
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 36: 14. June 2020
 **Progress**: Fixed scared ghosts overlap, unscared ghosts issue on second scare, css to waapi animation in progress
 **Link:** [Pacman JS](https://github.com/nahero/pacman_js)
