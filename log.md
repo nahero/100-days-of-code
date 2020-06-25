@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 38-40: 25. June 2020
+**Progress**: Pathfinding research, added Easystar.js, created 2 different pathfinding patterns, added behaviours (wandering, chase, scatter) and initial movement with behaviour triggering based on pacdotNumber (pacdots remaining)
+**Thoughts:** There was a lot of research and thinking and less code for a few days so I didn't commit. Number-based grid spots system is a hinderance, should be replaced with coordinates-based completely, as I'm already calculating coordinates all the time.
+**Link:** [Easystar.JS](https://github.com/prettymuchbryce/easystarjs)
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 37: 15. June 2020
 **Progress**: Fixed waapi scaredEnd animation timing, overlap and avoid applying to non-scared ghosts
 **Link:** [Pacman JS](https://github.com/nahero/pacman_js)
