@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 41: 26. June 2020
+**Progress**: updated pacdotBehaviourTrigger, set wandering on scared
+**Link:** [Pacman JS](https://github.com/nahero/pacman_js)
+
 ### Day 38-40: 25. June 2020
 **Progress**: Pathfinding research, added Easystar.js, created 2 different pathfinding patterns, added behaviours (wandering, chase, scatter) and initial movement with behaviour triggering based on pacdotNumber (pacdots remaining)
 **Thoughts:** There was a lot of research and thinking and less code for a few days so I didn't commit. Number-based grid spots system is a hinderance, should be replaced with coordinates-based completely, as I'm already calculating coordinates all the time.
